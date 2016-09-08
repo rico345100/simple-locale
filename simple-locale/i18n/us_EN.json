@@ -1,0 +1,7 @@
+{
+	"hello": "Hello!",
+	"helloWithParam": "Hello, <%= user %>!",
+	"nested": {
+		"hello": "Nested Hello!"
+	}
+}

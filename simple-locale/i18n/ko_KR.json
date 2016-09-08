@@ -1,0 +1,7 @@
+{
+	"hello": "안녕하세요!",
+	"helloWithParam": "안녕하세요, <%= user %>!",
+	"nested": {
+		"hello": "중첩 안녕하세요!"
+	}
+}
